@@ -1,21 +1,13 @@
----
-tags:
-  - god
-  - deity
-  - pantheon
-aliases:
----
+# Innis
 
-
-# Innis 
 *The Great Creator
 
 ---
 ### Details
 
-**Birth:** ~ 2000 B.R
+**Birth:** ~2000 B.R
 **Parents:** None
-**Children:** [Thuros](Thuros), [Unara](Unara), [Gaia](Gaia)
+**Children:** [Thuros](Thuros.md), [Unara](Unara.md), [Gaia](Gaia.md)
 **Symbol:** A four point star in a circle representing the first spark
 **Worshippers:** Creation cults, architects, sages, and some ancient orders who seek the origins of all things
 

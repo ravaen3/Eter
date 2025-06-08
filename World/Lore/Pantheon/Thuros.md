@@ -1,11 +1,10 @@
-
 # **Thuros**
 
 _The Lightbringer_
 
 ---
 
-### **Details**
+### Details
 
 **Birth:** ~2000 B.R  
 **Parents:** Innis  
@@ -15,7 +14,7 @@ _The Lightbringer_
 
 ---
 
-## **Description**
+## Description
 
 Thuros is the god of fire and radiant sky — the divine force who first lit the world, driving away the void with flame and brilliance. He is the embodiment of celestial purpose, the relentless flame that exposes truth and sears weakness. It was by his light that the work of shaping Eter could begin.
 
@@ -23,7 +22,7 @@ Austere and eternal, Thuros represents divine judgment, sacred strength, and the
 
 ---
 
-## **Appearance**
+## Appearance
 
 Thuros manifests as a figure of pure sunlight and living flame, ever-shifting and immense. His form gleams like molten gold and sunsteel, with a corona that scorches the air. No features are visible — only brilliance, heat, and voice like thunder on stone.
 
@@ -31,7 +30,7 @@ Those who glimpse him in visions describe a burning crown on the horizon, or a s
 
 ---
 
-## **Worship**
+## Worship
 
 Worship of Thuros is strongest in the sun-scorched deserts of Eter, where his harsh light defines life and survival. There, his most devoted followers form the **Order of the Sun** — a militant ascetic cult who live in stone sanctuaries carved into cliffs and dunes. They believe that suffering under the sun is the path to purity.
 
