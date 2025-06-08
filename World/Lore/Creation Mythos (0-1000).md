@@ -1,12 +1,12 @@
 ### 2000 BR — The First Spark**
 
-Before seas, skies, or stars, before gods or mortal thought, there was only the **Void Eternal**, a stillness infinite and silent. But from this nothingness flared a single spark — **Innis**, the **Great Creator**.
+Before seas, skies, or stars, before gods or mortal thought, there was only the **Void Eternal**, a stillness infinite and silent. But from this nothingness flared a single spark — [**Innis**, the **Great Creator**.](Innis.md)
 
 With boundless power, Innis formed a world from chaos — a barren stone adrift in silence, which would become **Eter**. Longing to witness a spectacle of divine beauty, Innis birthed the **Three Founders**, godly architects of wonder and balance:
 
-- **Thuros**, the Lightbringer
-- **Unara**, the Tideweaver
-- **Gaia**, the Earth Mother
+- [**Thuros**, the Lightbringer](Thuros.md)
+- [**Unara**, the Tideweaver](Unara.md)
+- [**Gaia**, the Earth Mother](Gaia.md)
 
 Charged with making Eter worthy of divine witness, the Founders set to work.
 
