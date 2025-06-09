@@ -1,12 +1,12 @@
 ### 2000 BR — The First Spark**
 
-Before seas, skies, or stars, before gods or mortal thought, there was only the **Void Eternal**, a stillness infinite and silent. But from this nothingness flared a single spark — [**Innis**, the **Great Creator**.](Innis.md)
+Before seas, skies, or stars, before gods or mortal thought, there was only the **Void Eternal**, a stillness infinite and silent. But from this nothingness flared a single spark — [**Innis**, the **Great Creator**.](Pantheon/Innis.md)
 
 With boundless power, Innis formed a world from chaos — a barren stone adrift in silence, which would become **Eter**. Longing to witness a spectacle of divine beauty, Innis birthed the **Three Founders**, godly architects of wonder and balance:
 
-- [**Thuros**, the Lightbringer](Thuros.md)
-- [**Unara**, the Tideweaver](Unara.md)
-- [**Gaia**, the Earth Mother](Gaia.md)
+- [**Thuros**, the Lightbringer](Pantheon/Thuros.md)
+- [**Unara**, the Tideweaver](Pantheon/Unara.md)
+- [**Gaia**, the Earth Mother](Pantheon/Gaia.md)
 
 Charged with making Eter worthy of divine witness, the Founders set to work.
 
@@ -17,7 +17,7 @@ Charged with making Eter worthy of divine witness, the Founders set to work.
 
 After an age of shaping the world, Thuros grew lonely in the sky. With Unara’s aid, he conjured a daughter:
 
-- [**Serene**, Lady of the Moon](Serene.md)
+- [**Serene**, Lady of the Moon](Pantheon/Serene.md)
 
 Graceful and radiant, Serene lit the night with her silver glow and birthed the **Stars**, her celestial kin. Yet Gaia, sensing imbalance, beguiled Thuros into creating a son:
 

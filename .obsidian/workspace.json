@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Character Creation/Species (Playable)/Orc.md",
+                "file": "World/Lore/Creation Mythos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orc"
+              "title": "Creation Mythos"
             }
           },
           {
@@ -206,19 +206,20 @@
   },
   "active": "a9f5cd69d7ada06a",
   "lastOpenFiles": [
+    "World/Lore/Pantheon/Thuros.md",
+    "World/Lore/Creation Mythos.md",
+    "World/Lore/Pantheon/Darian.md",
+    "World/Character Creation/Species (Playable)/Orc.md",
     "World/Character Creation/Species (Playable)/Human.md",
     "World/Character Creation/Species (Playable)/Gnome.md",
     "World/Character Creation/Species (Playable)/Dwarf.md",
-    "World/Character Creation/Species (Playable)/Orc.md",
     "World/Character Creation/Species (Playable)/Satyr.md",
     "World/Character Creation/Species (Playable)/Dragonkin.md",
-    "World/Lore/Creation Mythos.md",
     "Welcome.md",
     "World/Lore/Pantheon/Innis.md",
     "World/Character Creation/Species (Playable)/Elf.md",
     "World/Lore/Pantheon/Serene.md",
     "World/Lore/Pantheon/Unara.md",
-    "World/Lore/Pantheon/Darian.md",
     "World/Lore/Pantheon/Gaia.md",
     "World/Lore/Pantheon/Lahna.md",
     "Serene.md",
@@ -226,7 +227,6 @@
     "2025-06-09.md",
     "World/Character Creation",
     "World/Character Creation/Species (Playable)",
-    "World/Lore/Pantheon/Thuros.md",
     "World/Lore/Untitled",
     "Pasted image 20250608232533.png",
     "Pasted image 20250608232527.png",

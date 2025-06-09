@@ -16,7 +16,7 @@ Worshippers: Sailors, storm-callers, tidewalkers, oracles, coastal clans, and lu
 
 ## Description
 
-Unara is the goddess of water, motion, and feeling — the ebb and flow of all that lives and breathes. One of the Three Founders, she is the force that brings movement to form, rhythm to chaos, and depth to the divine. Where [[Gaia]] rooted life and [[Thuros]] ignited light, Unara gave existence its rhythm — from tides and rains to emotion and intuition.
+Unara is the goddess of water, motion, and feeling — the ebb and flow of all that lives and breathes. One of the Three Founders, she is the force that brings movement to form, rhythm to chaos, and depth to the divine. Where [Gaia](Gaia.md) rooted life and [Thuros](Thuros.md) ignited light, Unara gave existence its rhythm — from tides and rains to emotion and intuition.
 
 She is revered as the mother of all transformation. Calm and nurturing, yet unknowable and tempestuous, Unara represents both the healing balm and the flood, both dream and drowning. Her domains include not only seas and weather, but sleep, longing, change, and prophecy.
 
