@@ -57,7 +57,7 @@ With creation thriving and death rising, **Innis** summoned a second wave of god
     - _The Trials_, where souls are tested
     
 - **Faelune, the Trickster**  
-    Shaped from dream and deception, Faelune forged the _Fae Wilds_, a hidden mirror of Eter. With help from Gaia and Miris, she filled it with creatures of whimsy and trickery: pixies, fairies, wood elves, satyrs, and centaurs.
+    Shaped from dream and deception, Faelune forged the _Fae Wilds_, a hidden mirror of Eter. With help from Gaia and Miris, she filled it with creatures of whimsy and trickery: pixies, fairies, fae elves, satyrs, gnomes and centaurs.
 ### **1300 BR - The Fall of Karnas**
 
 Born of trickery, Karnas, son of Gaia and Thuros, was a force of chaos. He raised mountains and carved valleys, but his heart burned with fury. Resentful of his origin, he turned against Gaia, unleashing volcanoes, earthquakes, and rivers of molten rock to tear her creation apart.
