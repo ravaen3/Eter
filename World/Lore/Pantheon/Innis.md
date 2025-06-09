@@ -1,6 +1,6 @@
 # Innis
 
-*The Great Creator
+*The Great Creator*
 
 ---
 ### Details
