@@ -9,7 +9,6 @@
 - **Breath Weapon:** You can use your action to exhale destructive energy based on your subrace. When you use your breath weapon, each creature in the area must make a saving throw (DC = 8 + your Con modifier + proficiency bonus). On a failed save, a creature takes 2d6 damage (increasing at levels 6/11/16). Half damage on a success. You can use this once per short or long rest.
 - **Languages:** You can speak, read, and write Common and Draconic.
 ---
-
 # Dragonkin Subraces
 
 ---

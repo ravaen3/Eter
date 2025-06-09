@@ -7,10 +7,10 @@ _Lady of the Moon_
 ### Details
 
 Birth: ~1900 B.R  
-Parents: [Thuros](Thuros.md), [Unara](Unara.md)
-Children: [Kael'Zurath](Kael'Zurath), [Volos](Volos.md)
+Parents: [Thuros](Thuros.md), [Unara](Unara.md)  
+Children: [Kael'Zurath](Kael'Zurath), [Volos](Volos.md)  
 Symbol: A crescent moon cradling a star  
-Worshippers: Elves, navigators and night-watchers
+Worshippers: Elves, navigators and night-watchers  
 
 ---
 

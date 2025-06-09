@@ -8,9 +8,9 @@ _The Lightbringer_
 
 **Birth:** ~2000 B.R  
 **Parents:** Innis  
-**Children:** [Serene](Serene.md), [Lahna](Lahna.md), [Darian](Darian.md) 
+**Children:** [Serene](Serene.md), [Lahna](Lahna.md), [Darian](Darian.md)  
 **Symbol:** A blazing sun with eight rays  
-**Worshippers:** The Order of the Sun, desert mystics, flame-priests, smiths, and oathbound warriors
+**Worshippers:** The Order of the Sun, desert mystics, flame-priests, smiths, and oathbound warriors  
 
 ---
 

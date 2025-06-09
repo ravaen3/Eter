@@ -7,10 +7,10 @@ _The Flameforged_
 ### Details
 
 Birth: ~1200 B.R  
-Parents: [Thuros](Thuros.md), [Gaia](Gaia.md)
-Children: None 
-Symbol: A hammer and anvil
-Worshippers: Dwarfs, blacksmiths, warriors, miners and deep-dwellers
+Parents: [Thuros](Thuros.md), [Gaia](Gaia.md)  
+Children: None  
+Symbol: A hammer and anvil  
+Worshippers: Dwarfs, blacksmiths, warriors, miners and deep-dwellers  
 
 ---
 
