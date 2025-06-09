@@ -8,7 +8,7 @@ _The Earth Mother_
 
 Birth: ~2000 B.R
 Parents: [Innis](Innis.md) (creator)  
-Children: Karnas, Celine, Darian  
+Children: [Karnas](Karnas.md), [Celine](Celine.md), [Darian](Darian.md)
 Symbol: A tree  
 Worshippers: Druids, farmers, elementalists, and guardians of nature
 

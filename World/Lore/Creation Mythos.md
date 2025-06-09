@@ -17,11 +17,11 @@ Charged with making Eter worthy of divine witness, the Founders set to work.
 
 After an age of shaping the world, Thuros grew lonely in the sky. With Unara’s aid, he conjured a daughter:
 
-- **Serene**, Lady of the Moon
+- [**Serene**, Lady of the Moon](Serene.md)
 
 Graceful and radiant, Serene lit the night with her silver glow and birthed the **Stars**, her celestial kin. Yet Gaia, sensing imbalance, beguiled Thuros into creating a son:
 
-- **Karnas**, the Stoneforged
+- [**Karnas**, the Stoneforged](Karnas.md)
 
 Karnas carved mountains and heaved valleys across Eter. Gaia, in a moment of divine weakness, **infused him with her immortal spirit**, granting him resilience rivaling the gods — a decision she would come to deeply regret.
 ### **1800 BR — Beasts and Behemoths**
@@ -37,9 +37,11 @@ Innis, pleased by Gaia’s works, decreed the creation of a mortal race gifted w
 
 The gods, stirred by pride and rivalry, began shaping mortal races of their own.
 
-- **Karnas**, seeking glory, crafted the **Dwarves**, secretive and strong, hidden deep in the roots of mountains. They unearthed ores and forged the first metals.
-
 - **Serene**, ever patient, nurtured the **Elves** upon her moon, shaping their beauty and grace before casting them gently down to Eter.
+
+- **Karnas**, hungry for glory and legacy, delved deep into the molten heart of the world. From flame and stone, he forged the **Dwarves** — stout, resolute beings who carved their cities beneath the mountains and unearthed the secrets of ore and metalwork.
+
+Yet Karnas, driven by a deeper fire, also breathed life into a second race: the **Dragons** — immense, majestic creatures of power and fury. Karnas imbued the dragons with great wisdom and magic. This original wing of dragons came to be known as the Primordials, a dozen in total.
 ### **1600 BR — The Second Wave: The Wyrdbound**
 
 With creation thriving and death rising, **Innis** summoned a second wave of gods — not to shape the world, but to bind its hidden forces. These were the **Wyrdbound**, divinities tied to the mystical fabric of Eter.
@@ -72,14 +74,15 @@ Gaia, grieving yet resolute, faced her grandson in a battle that shattered the m
 
 With Kael'Zurath bound beneath the earth, silence settled over the world. The gods, indifferent to calm but eager for new intrigue, shaped fresh divinities from the cosmic weave, during this time the following gods were born:
 
-- Volos  —  the Eternal Void *(Parents: Velthar & Faelun)*
+- Volos  —  the Eternal Void *(Parents: Velthar & Serene)*
 - Lahna  —  Weather Weaver *(Parents: Thuros & Unara)*
 - Darian  —  The Flameforged *(Parents: Thuros & Gaia)*
 - Celine  —  of the Harvest Moon *(Parents: Mirin & Gaia)*
 - Verion  —  The Reaping Blade *(Parents: Velthar & Celine)*
 - Glimerion  —  Force of Progress *(Parents: Darian & Celine)*
 
-Having now formed the final pantheon, and with the founders wanting to preserve their power, they formed an eternal pact not to produce any more gods.
+Having now formed the final pantheon, and with the founders wanting to preserve their power, they formed an eternal pact not to produce any more gods. Verion, wanting to etch his mark on the world, created both the dragonkin and the orcs. These new races while initially few in numbers, would come to be great warmongers and conquerors, following in their creators vision.
 ### **1000 BR
 
 In the mortal realm, Glimerion was hard at work to spread the spark of creation and wisdom. He taught the concept of writing and an era of discovery quickly followed. With these new technologies came civilization and thus began the era of growth and the first great empires formed.
+
