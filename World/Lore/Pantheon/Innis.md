@@ -1,15 +1,16 @@
 # Innis
 
-*The Great Creator
+*The Great Creator*
 
 ---
+
 ### Details
 
-**Birth:** ~2000 B.R
-**Parents:** None
-**Children:** [Thuros](Thuros.md), [Unara](Unara.md), [Gaia](Gaia.md)
-**Symbol:** A four point star in a circle representing the first spark
-**Worshippers:** Creation cults, architects, sages, and some ancient orders who seek the origins of all things
+Birth: ~2000 B.R
+Parents: None
+Children: [Thuros](Thuros.md), [Unara](Unara.md), [Gaia](Gaia.md)
+Symbol: A four point star in a circle representing the first spark
+Worshippers: Creation cults, architects, sages, and some ancient orders who seek the origins of all things
 
 ---
 
