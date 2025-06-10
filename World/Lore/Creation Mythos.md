@@ -46,17 +46,17 @@ Yet Karnas, driven by a deeper fire, also breathed life into a second race: the 
 
 With creation thriving and death rising, **Innis** summoned a second wave of gods — not to shape the world, but to bind its hidden forces. These were the **Wyrdbound**, divinities tied to the mystical fabric of Eter.
 
-- **Miris, Keeper of the Arcane**  
+- [**Miris, Keeper of the Arcane**](Miris.md)
     Born of mana and starlight, Miris watches over the flow of magic. He guides spellcasters in secret, ensuring arcane balance across the world.
     
-- **Velthar, Lord of the Last Gate**  
+- [**Velthar, Lord of the Last Gate**](Velthar.md)  
     Forged from silence and judgment, Velthar created the realms of death:
     
     - _Vael’saerin_, resting place of the worthy
     - _Nhar’zul_, abyss of the damned
     - _The Trials_, where souls are tested
     
-- **Faelune, the Trickster**  
+- [**Faelune, the Trickster** ](Faelune.md) 
     Shaped from dream and deception, Faelune forged the _Fae Wilds_, a hidden mirror of Eter. With help from Gaia and Miris, she filled it with creatures of whimsy and trickery: pixies, fairies, fae elves, satyrs, gnomes and centaurs.
 ### **1300 BR - The Fall of Karnas**
 
@@ -74,12 +74,12 @@ Gaia, grieving yet resolute, faced her grandson in a battle that shattered the m
 
 With Kael'Zurath bound beneath the earth, silence settled over the world. The gods, indifferent to calm but eager for new intrigue, shaped fresh divinities from the cosmic weave, during this time the following gods were born:
 
-- Volos  —  the Eternal Void *(Parents: Velthar & Serene)*
-- Lahna  —  Weather Weaver *(Parents: Thuros & Unara)*
-- Darian  —  The Flameforged *(Parents: Thuros & Gaia)*
-- Celine  —  of the Harvest Moon *(Parents: Mirin & Gaia)*
-- Verion  —  The Reaping Blade *(Parents: Velthar & Celine)*
-- Glimerion  —  Force of Progress *(Parents: Darian & Celine)*
+- [Volos  —  the Eternal Void](Volos.md) *(Parents: Velthar & Serene)*
+- [Lahna  —  Weather Weaver](Lahna.md) *(Parents: Thuros & Unara)*
+- [Darian  —  The Flameforged](Darian.md) *(Parents: Thuros & Gaia)*
+- [Celine  —  The Lustrous Bloom](Celine.md) *(Parents: Mirin & Gaia)*
+- [Verion  —  The Reaping Blade](Verion.md) *(Parents: Velthar & Celine)*
+- [Glimerion  —  Force of Progress](Glimerion.md) *(Parents: Darian & Celine)*
 
 Having now formed the final pantheon, and with the founders wanting to preserve their power, they formed an eternal pact not to produce any more gods. Verion, wanting to etch his mark on the world, created both the dragonkin and the orcs. These new races while initially few in numbers, would come to be great warmongers and conquerors, following in their creators vision.
 ### **1000 BR

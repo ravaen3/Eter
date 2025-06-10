@@ -10,7 +10,7 @@ Birth: ~2000 B.R
 Parents: [Innis](Innis.md) (creator)  
 Children: [Karnas](Karnas.md), [Celine](Celine.md), [Darian](Darian.md)  
 Symbol: A tree  
-Worshippers: Druids, farmers, elementalists, and guardians of nature  
+Worshippers: Druids, farmers, elementalists, the Verdant Flight and guardians of nature  
 
 ---
 

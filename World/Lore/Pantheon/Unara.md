@@ -2,7 +2,7 @@
 
 **_The Tideweaver_**
 
-**---**
+---
 
 ### Details
 
@@ -12,7 +12,7 @@ Children: [Serene](Serene.md), [Lahna](Lahna.md)
 Symbol: A spiral wave encircling a teardrop moon  
 Worshippers: Sailors, storm-callers, tidewalkers, oracles, coastal clans, and lunar mystics
 
-**---**
+---
 
 ## Description
 
@@ -28,7 +28,7 @@ Unara is often seen in visions as a tall, ethereal woman formed of moonlight and
 
 In other manifestations, she appears as a great leviathan formed of silver foam, a veiled priestess walking atop the sea, or a moonlit swan gliding silently across a mirror-like lake.
 
-**---**
+---
 
 ## Worship
 

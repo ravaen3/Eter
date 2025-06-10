@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Lore/Pantheon/Gaia.md",
+                "file": "World/Lore/Pantheon/Volos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaia"
+              "title": "Volos"
             }
           },
           {
@@ -204,41 +204,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f5cd69d7ada06a",
+  "active": "07f57a01d4f137c0",
   "lastOpenFiles": [
-    "World/Lore/Pantheon/Darian.md",
-    "World/Lore/Pantheon/Thuros.md",
     "World/Lore/Pantheon/Serene.md",
+    "World/Lore/Pantheon/Volos.md",
+    "World/Lore/Pantheon/Thuros.md",
     "World/Lore/Pantheon/Lahna.md",
-    "World/Lore/Pantheon/Innis.md",
+    "World/Lore/Creation Mythos.md",
+    "World/Lore/Pantheon/Miris.md",
+    "World/Lore/Pantheon/Unara.md",
+    "World/Lore/Pantheon/Velthar.md",
+    "World/Lore/Pantheon/Verion.md",
+    "World/Lore/Characters/Kael'Zurath.md",
+    "World/Lore/Pantheon/Celine.md",
+    "World/Lore/Pantheon/Faelune.md",
+    "Celibe.md",
+    "World/Lore/Pantheon/Darian.md",
     "World/Lore/Pantheon/Gaia.md",
-    "World/Character Creation/Species (Playable)/Gnome.md",
+    "World/Lore/Pantheon/Glimerion.md",
+    "World/Lore/Pantheon/Innis.md",
+    "World/Character Creation/Backgrounds.md",
+    "World/Character Creation/Backgrounds",
+    "World/Lore/Characters",
     "World/Character Creation/Species (Playable)/Dragonkin.md",
+    "World/Character Creation/Species (Playable)/Gnome.md",
     "World/Character Creation/Species (Playable)/Dwarf.md",
     "World/Character Creation/Species (Playable)/Human.md",
     "World/Character Creation/Species (Playable)/Orc.md",
     "World/Character Creation/Species (Playable)/Elf.md",
-    "Kael'Zurath.md",
-    "World/Lore/Creation Mythos.md",
     "World/Character Creation/Species (Playable)/Satyr.md",
     "Welcome.md",
-    "World/Lore/Pantheon/Unara.md",
-    "Serene.md",
     "Untitled.canvas",
-    "2025-06-09.md",
     "World/Character Creation",
     "World/Character Creation/Species (Playable)",
-    "World/Lore/Untitled",
     "Pasted image 20250608232533.png",
     "Pasted image 20250608232527.png",
-    "Templates/God.md",
     "Templates",
     "World/Lore/Pantheon",
     "World/Lore/Creation Mythos",
-    "World/Bestiary/Fauna/Wolf.md",
     "World/Bestiary/Flora",
     "World/Bestiary/Fauna",
-    "World/Bestiary",
-    "World/Lore"
+    "World/Bestiary"
   ]
 }
