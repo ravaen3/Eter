@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Lore/Pantheon/Volos.md",
+                "file": "World/Character Creation/Backgrounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volos"
+              "title": "Backgrounds"
             }
           },
           {
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07f57a01d4f137c0",
+  "active": "a9f5cd69d7ada06a",
   "lastOpenFiles": [
-    "World/Lore/Pantheon/Serene.md",
     "World/Lore/Pantheon/Volos.md",
+    "World/Lore/Pantheon/Serene.md",
     "World/Lore/Pantheon/Thuros.md",
     "World/Lore/Pantheon/Lahna.md",
     "World/Lore/Creation Mythos.md",
