@@ -204,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f5cd69d7ada06a",
+  "active": "07f57a01d4f137c0",
   "lastOpenFiles": [
+    "git.i.txt",
+    "New Textdokument.txt",
     "World/Lore/Pantheon/Volos.md",
     "World/Lore/Pantheon/Serene.md",
     "World/Lore/Pantheon/Thuros.md",
@@ -233,7 +235,6 @@
     "World/Character Creation/Species (Playable)/Orc.md",
     "World/Character Creation/Species (Playable)/Elf.md",
     "World/Character Creation/Species (Playable)/Satyr.md",
-    "Welcome.md",
     "Untitled.canvas",
     "World/Character Creation",
     "World/Character Creation/Species (Playable)",
@@ -243,7 +244,6 @@
     "World/Lore/Pantheon",
     "World/Lore/Creation Mythos",
     "World/Bestiary/Flora",
-    "World/Bestiary/Fauna",
-    "World/Bestiary"
+    "World/Bestiary/Fauna"
   ]
 }
