@@ -12,3 +12,11 @@ According to some, Varnem Dros, the neighboring king, has been coerced by foreig
 Nether the less, the three adventurers have all found themselves situated in the middle of this political conflict and must now choose their path from their humble beginnings in Alster.
 
 Hopefully they will come to realise that they have a common goal. The only question that remains is, what that goal might be.
+
+---
+
+Uldreak, having recently travelled through the Swamplands, remains skeptical of the legitimacy of Swampplague, having not seen any direct evidence of an epidemic. Having arrived in the early morning after a hasty journey throughout the Swamplands, he is hoping that the news of his escape from the Crimson Flight draft have yet to reach the shores of the Swamplands.
+
+Caelion, arrives sometime before noon. Still curious about the world, and not an experienced traveller, Caelion hopes to shed some clarity into the rumored outbreak of Swampplague.
+
+Joru, having set off from the Valewood a month ago, had travelled into Alder and had learned of the closing of the border. Reasoned that a king such as Varnem Dros was in the right to close the borders, however Joru was more concerned with the plague itself to pay much attention to the political impacts.
