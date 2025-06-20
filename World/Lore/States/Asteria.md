@@ -5,7 +5,7 @@
 ### Details
 
 **Founded:** 136  
-**Collapse:** 647  
+**Collapse:** 547  
 **Founder:** [[Asterion]]
 **Capital:** Edis  
 **Races:** [[Human|Firstborn, Humans]]  
