@@ -1,7 +1,5 @@
-# Asteria
 
 ---
-
 ### Details
 
 **Founded:** 136  

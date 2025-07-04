@@ -1,17 +1,15 @@
-# Asterion
-
 _The First King_
 
 ---
 
-### Details
+### Details  
 
 **Race:** [Firstborn](../../Character%20Creation/Species%20\(Playable\)/Human.md)  
 **Born:** 105  
 **Died:** 250  
 **Parents:** Erderius  
 **Siblings:** Erderius II  
-**Children:** Asterion II
+**Children:** Asterion II  
 
 ### Chief of the Aden
 
@@ -21,7 +19,7 @@ _The First King_
 ### King of Asteria
 
 **Reign:** 136–250  
-**Successor:** Asterion II
+**Successor:** Asterion II  
 
 ---
 

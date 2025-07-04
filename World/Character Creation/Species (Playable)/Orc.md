@@ -1,4 +1,4 @@
-## Base Orc Traits
+0## Base Orc Traits
 
 - **Ability Score Increase:** Your Strength score increases by 2.
 - **Age:** Orcs mature quickly, reaching adulthood at 12, and rarely live beyond 60.

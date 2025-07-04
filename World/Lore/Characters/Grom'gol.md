@@ -2,19 +2,19 @@ _The Ash-Maker_
 
 ---
 
-### Details
+### Details  
 
-**Race:** [[Orc|Blood Orc]]
-**Born:** ~100
+**Race:** [[Orc|Blood Orc]]  
+**Born:** ~100  
 **Died:** 129  
 **Parents:** Unknown  
 **Siblings:** Unknown  
-**Children:** Gol'khan
+**Children:** Gol'khan  
 
 ### Warchief of the Gor'kul Raiders
 
 **Reign:** c. 120–129  
-**Successor:** _None_
+**Successor:** _None_  
 
 ---
 
