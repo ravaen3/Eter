@@ -3,7 +3,7 @@
 Year: 
 1025
 
-The Players are starting in a village called Alster, the village is located in Gradlewood, on a connecting path to the Swamplands. Alster is situated within the kingdom of Maerendor, ruled by the king [Aelrith Greencrown](../Lore/Characters/Aelrith%20Greencrown.md), descendent of Faelrian Greencrown III.
+The Players are starting in a village called Alster, the village is located in Gradlewood, on a connecting path to the Swamplands. Alster is situated within the kingdom of Maerendor, ruled by the king [Aelrith Greencrown](Aelrith%20Greencrown.md), descendent of Faelrian Greencrown III.
 
 Currently there is a sense of fright in the village, as the once flourishing traderoute between Alster and Svalnas has been closed. Causing there to be quite some difficulty crossing into the Swamplands.
 

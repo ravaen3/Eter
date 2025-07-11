@@ -1,7 +1,7 @@
 
 ---
 
-**Race:** [Human](../../Character%20Creation/Species%20\(Playable\)/Human.md)  
+**Race:** [Human](Human.md)  
 **Born:** 964  
 **Died:** —  
 **Parents:** Vilna Dros

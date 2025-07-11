@@ -4,7 +4,7 @@ _The First King_
 
 ### Details  
 
-**Race:** [Firstborn](../../Character%20Creation/Species%20\(Playable\)/Human.md)  
+**Race:** [Firstborn](Human.md)  
 **Born:** 105  
 **Died:** 250  
 **Parents:** Erderius  

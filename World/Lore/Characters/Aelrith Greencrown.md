@@ -1,6 +1,6 @@
 ### Details
 
-**Race:** [Firstborn](../../Character%20Creation/Species%20\(Playable\)/Human.md)  
+**Race:** [Firstborn](Human.md)  
 **Born:** 969  
 **Died:** —  
 **Parents:** Faelrian Greencrown
